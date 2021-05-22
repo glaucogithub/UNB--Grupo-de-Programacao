@@ -12,7 +12,7 @@
 
 # Códigos e Materiais
 ## Material extra
-- [CP-algo] [] [Exponenciação rápida](https://cp-algorithms.com/algebra/binary-exp.html)
+- [CP-algo] - [] [Exponenciação rápida](https://cp-algorithms.com/algebra/binary-exp.html)
 
 - [CP-algo] [] [Sparse table](https://cp-algorithms.com/data_structures/sparse-table.html)
 
