@@ -17,7 +17,7 @@ _Slides da aula 1_
 ## Material extra
 
 ## Exercícios
-###### Parte 1
+## Parte 1
 **Moeda (pega ou não pega)**
 - [ ] [CF] [Problema da Moeda](https://codeforces.com/problemset/problem/455/A)
 
