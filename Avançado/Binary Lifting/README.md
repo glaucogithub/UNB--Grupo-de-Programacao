@@ -6,7 +6,7 @@
 1. Binary Lifting na árvore
 2. Euler tour/LCA
 
-**Slides**
+## Slides
 - _Slides da aula 1_
 - _Slides da aula 2_
 
