@@ -1,1 +1,1 @@
-- [ ] \(Optional) Abrir um problema de acompanhamento
+- [x] \(Optional) Abrir um problema de acompanhamento
