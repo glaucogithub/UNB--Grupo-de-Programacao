@@ -8,35 +8,27 @@ Slides da aula 1
 Juízes Online e Competições
 
 Juízes Online
-Codeforces
-https://codeforces.com/
+[Codeforces](https://codeforces.com/)
 
-AtCoder
-https://atcoder.jp/
+[AtCoder](https://atcoder.jp/)
 
-URI Online Judge
-https://www.urionlinejudge.com.br/judge/pt/
+[URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/)
 
 Competições
-OBI
-https://olimpiada.ic.unicamp.br/
+[OBI](https://olimpiada.ic.unicamp.br/)
 
-Maratona SBC de Programação
-http://maratona.sbc.org.br/
+[Maratona SBC de Programação](http://maratona.sbc.org.br/)
 
-[ICPC](https://icpc.global/).
+[ICPC](https://icpc.global/)
 
 Códigos e Materiais
 
 Material extra
-Repositório do Prof. Edson Alves
-https://github.com/edsomjr/TEP/tree/master/Introducao
+[Repositório do Prof. Edson Alves](https://github.com/edsomjr/TEP/tree/master/Introducao)
 
-Grupo da UnBalloon no Codeforces
-https://codeforces.com/group/nituVTsHQX/contests
+[Grupo da UnBalloon no Codeforces](https://codeforces.com/group/nituVTsHQX/contests)
 
-Informações sobre a II Maratona de Programaçao UnBalloon
-http://maratona.cic.unb.br/unb/72-ii-maratona-programacao-unballon
+[Informações sobre a II Maratona de Programaçao UnBalloon](http://maratona.cic.unb.br/unb/72-ii-maratona-programacao-unballon)
 
 II Maratona UnBalloon de Programação
 Olá, competidores.
