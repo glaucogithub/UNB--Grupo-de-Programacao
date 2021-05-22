@@ -41,11 +41,11 @@
 
 ## Parte 2
 **_Exercícios de fixação_**
-- [Binary Lifting/Árvore] [ ] [Company Queries I](https://cses.fi/problemset/task/1687)
+- [ ] [Binary Lifting/Árvore] [Company Queries I](https://cses.fi/problemset/task/1687)
 
-- [LCA] [ ] [Company Queries II](https://cses.fi/problemset/task/1688)
+- [ ] [LCA] [Company Queries II](https://cses.fi/problemset/task/1688)
 
-- [Binary Lifting/Árvore] [ ] [Fools and Roads](https://codeforces.com/contest/191/problem/C)
+- [ ] [Binary Lifting/Árvore] [Fools and Roads](https://codeforces.com/contest/191/problem/C)
 
 **_Exercícios intermediários_**
 - [ ] [Binary Lifting/Árvore] [A and B and Lecture Rooms](https://codeforces.com/contest/519/problem/E)
