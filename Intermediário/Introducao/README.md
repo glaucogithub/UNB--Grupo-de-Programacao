@@ -29,7 +29,8 @@ _Slides da aula 1_
 - [Grupo da UnBalloon no Codeforces](https://codeforces.com/group/nituVTsHQX/contests)
 
 - [Informações sobre a II Maratona de Programaçao UnBalloon](http://maratona.cic.unb.br/unb/72-ii-maratona-programacao-unballon)
-Olá, competidores.
+
+- Olá, competidores.
 
 É com satisfação que anunciamos a II Maratona UnBalloon de Programação! 
 A competição será realizada no dia 29/05, às 14h, com duração de 5 horas e será aberta a todos. 
