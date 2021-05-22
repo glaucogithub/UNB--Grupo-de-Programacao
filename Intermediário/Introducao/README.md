@@ -24,8 +24,7 @@ https://olimpiada.ic.unicamp.br/
 Maratona SBC de Programação
 http://maratona.sbc.org.br/
 
-[ICPC]
-(https://icpc.global/)
+[ICPC](https://icpc.global/).
 
 Códigos e Materiais
 
