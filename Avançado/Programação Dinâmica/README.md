@@ -1,24 +1,23 @@
-Programação Dinâmica
+# Programação Dinâmica
 
-Videoaulas
+## Videoaulas
 
-Aula 1
-Definição
-Problema da moeda
-Kadane
-Combinatória
+###### Aula 1
+1. Definição
+2. Problema da moeda
+3. Kadane
+4. Combinatória
 
-Slides
-Slides da aula 1
+## Slides
+**_Slides da aula 1_**
 
-Códigos e Materiais
-[Atcoder] Contest educacional de DP
-https://atcoder.jp/contests/dp
+## Códigos e Materiais
+[Atcoder] [Contest educacional de DP](https://atcoder.jp/contests/dp)
 
-Material extra
+## Material extra
 
-Exercícios
-Parte 1
+## Exercícios
+###### Parte 1
 Moeda (pega ou não pega)
 -[CF] Problema da Moeda
 https://codeforces.com/problemset/problem/455/A
