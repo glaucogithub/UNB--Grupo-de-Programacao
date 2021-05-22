@@ -11,6 +11,8 @@ Avançado
 
 Grupo do Telegram
 O grupo do Telegram UnBalloon reúne estudantes tanto do Distrito Federal quanto do resto do Brasil. Seu propósito é simples: ser um espaço de interações e troca de conhecimentos de programação competitiva. Para fins de organização existem dois grupos, o grupo de avisos e o grupo de discussões.
+https://t.me/avisosunballoon
+https://t.me/unballoon
 
 O canal do Telegram não é vinculado diretamente ao projeto de extensão e todos são bem-vindos nos grupos!
 
