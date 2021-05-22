@@ -1,0 +1,89 @@
+Programação Dinâmica
+
+Videoaulas
+
+Aula 1
+Definição
+Problema da moeda
+Kadane
+Combinatória
+
+Slides
+Slides da aula 1
+
+Códigos e Materiais
+[Atcoder] Contest educacional de DP
+https://atcoder.jp/contests/dp
+
+Material extra
+
+Exercícios
+Parte 1
+Moeda (pega ou não pega)
+-[CF] Problema da Moeda
+https://codeforces.com/problemset/problem/455/A
+
+-[CF] Subsequência HARD
+https://codeforces.com/contest/1096/problem/D
+
+-[CF] Tickets, transição espertinha
+https://codeforces.com/problemset/problem/756/B
+
+Kadane
+-[Maratona UnBalloon] Kadane multiplicando um elemento
+https://codeforces.com/group/nituVTsHQX/contest/315755/problem/H
+
+-[CF] Kadane multiplicando um subarray
+https://codeforces.com/contest/1155/problem/D
+
+-[CF] Subtrai k dependendo da quantidade
+https://codeforces.com/contest/1197/problem/D
+
+Combinatória
+-[Atcoder] Degraus
+https://atcoder.jp/contests/abc129/tasks/abc129_c
+
+-[CF] Organizar soldados e cavaleiros
+https://codeforces.com/problemset/problem/118/D
+
+-[OBI] Muro
+https://olimpiada.ic.unicamp.br/pratique/pu/2018/f3/muro/
+
+-[CF] Bicolorings (parece com Muro)
+https://codeforces.com/problemset/problem/1051/D
+
+Bitmask
+-[Maratona UnB 2020] Caixeiro Viajante
+https://codeforces.com/group/btcK4I5D5f/contest/308631/problem/A
+
+-[CF] Bitmask e probabilidade
+https://codeforces.com/contest/678/problem/E
+
+-[CF] Nim game
+https://codeforces.com/contest/768/problem/E
+
+-[CF] Problema difícil
+https://codeforces.com/contest/743/problem/e
+
+Dígitos
+-[CF] Números com até 3 dígitos não nulos
+https://codeforces.com/contest/1036/problem/C
+
+-[CF] Soma dos números com k dígitos diferentes
+https://codeforces.com/contest/1073/problem/E
+
+Outros
+-[CF] Topzera
+https://codeforces.com/contest/1513/problem/C
+
+-[CF] DP quadrática
+https://codeforces.com/contest/1114/problem/D
+
+-[CF] DP de matriz
+https://codeforces.com/contest/1107/problem/D
+
+-[NEPS] Trabalho do Papa
+https://neps.academy/br/course/7/lesson/177
+
+-[CF] Generate a String
+https://codeforces.com/contest/710/problem/E
