@@ -1,6 +1,6 @@
 **Códigos e Materiais**
 
-Material extra
+**Material extra**
 * [Blog] [Fila de mínimo](https://codeforces.com/blog/entry/76908)
 
 * [CP-algo] [Fila e pilha de mínimo](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
