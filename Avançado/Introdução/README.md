@@ -15,8 +15,7 @@ Material extra
 [Set] [Multicolored Cars](https://codeforces.com/problemset/problem/818/D)
 
 **Exercícios intermediários**
-[Mediana (parecido)] NCPC2017 problema G
-https://codeforces.com/gym/101572/attachments/download/6091/20172018-acmicpc-nordic-collegiate-programming-contest-ncpc-2017-en.pdf
+[Mediana (parecido)] [NCPC2017 problema G](https://codeforces.com/gym/101572/attachments/download/6091/20172018-acmicpc-nordic-collegiate-programming-contest-ncpc-2017-en.pdf)
 
 [GCD queue] [38 parrots](https://codeforces.com/gym/102788/problem/D)
 
