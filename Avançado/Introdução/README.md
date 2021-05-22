@@ -33,4 +33,4 @@
 
 * [Min queue] [Running on Fumes](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/D1)
 
-*[Set] [Physical Education Lessons](https://codeforces.com/contest/915/problem/E)
+* [Set] [Physical Education Lessons](https://codeforces.com/contest/915/problem/E)
