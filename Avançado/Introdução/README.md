@@ -8,9 +8,9 @@
 # Exercícios
 
 **_Exercícios de fixação_**
-* [Mediana] [Absolute Minima](https://atcoder.jp/contests/abc127/tasks/abc127_f)
+- [ ] * [Mediana] [ ] [Absolute Minima](https://atcoder.jp/contests/abc127/tasks/abc127_f)
 
-* [Min queue] [Segments with Small Spread](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/F)
+* [Min queue] [ ] [Segments with Small Spread](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/F)
 
 * [Set] [Multicolored Cars](https://codeforces.com/problemset/problem/818/D)
 
