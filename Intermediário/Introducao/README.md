@@ -24,12 +24,11 @@ _Slides da aula 1_
 # Códigos e Materiais
 
 # Material extra
--[Repositório do Prof. Edson Alves](https://github.com/edsomjr/TEP/tree/master/Introducao)
+- [Repositório do Prof. Edson Alves](https://github.com/edsomjr/TEP/tree/master/Introducao)
 
--[Grupo da UnBalloon no Codeforces](https://codeforces.com/group/nituVTsHQX/contests)
+- [Grupo da UnBalloon no Codeforces](https://codeforces.com/group/nituVTsHQX/contests)
 
--[Informações sobre a II Maratona de Programaçao UnBalloon](http://maratona.cic.unb.br/unb/72-ii-maratona-programacao-unballon)
-II Maratona UnBalloon de Programação
+- [Informações sobre a II Maratona de Programaçao UnBalloon](http://maratona.cic.unb.br/unb/72-ii-maratona-programacao-unballon)
 Olá, competidores.
 
 É com satisfação que anunciamos a II Maratona UnBalloon de Programação! 
