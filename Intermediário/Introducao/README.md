@@ -1,4 +1,4 @@
-Introdução
+**Introdução**
 
 Videoaulas
 
@@ -43,3 +43,4 @@ Para criar seu time na plataforma do CodeForces assista o vídeo de explicação
 Caso queira saber mais sobre a última Maratona UnBalloon, acesse o link (http://maratona.cic.unb.br/unb/67-i-maratona-programacao-unballon).
 Quaisquer dúvidas, pergunte no grupo do UnBallon no Telegram (https://t.me/unballoon).
 Esperamos que todos se divirtam participando. Boa sorte e boa competição!
+
