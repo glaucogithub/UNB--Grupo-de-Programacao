@@ -9,7 +9,7 @@
 4. Combinatória
 
 ## Slides
-**_Slides da aula 1_**
+_Slides da aula 1_
 
 ## Códigos e Materiais
 [Atcoder] [Contest educacional de DP](https://atcoder.jp/contests/dp)
@@ -17,28 +17,22 @@
 ## Material extra
 
 ## Exercícios
-## Parte 1
-Moeda (pega ou não pega)
--[CF] Problema da Moeda
-https://codeforces.com/problemset/problem/455/A
+###### Parte 1
+**Moeda (pega ou não pega)**
+- [ ] [CF] [Problema da Moeda](https://codeforces.com/problemset/problem/455/A)
 
--[CF] Subsequência HARD
-https://codeforces.com/contest/1096/problem/D
+- [ ] [CF] [Subsequência HARD](https://codeforces.com/contest/1096/problem/D)
 
--[CF] Tickets, transição espertinha
-https://codeforces.com/problemset/problem/756/B
+- [ ] [CF] [Tickets, transição espertinha](https://codeforces.com/problemset/problem/756/B)
 
-Kadane
--[Maratona UnBalloon] Kadane multiplicando um elemento
-https://codeforces.com/group/nituVTsHQX/contest/315755/problem/H
+**Kadane**
+- [ ] [Maratona UnBalloon] [Kadane multiplicando um elemento](https://codeforces.com/group/nituVTsHQX/contest/315755/problem/H)
 
--[CF] Kadane multiplicando um subarray
-https://codeforces.com/contest/1155/problem/D
+- [ ] [CF] [Kadane multiplicando um subarray](https://codeforces.com/contest/1155/problem/D)
 
--[CF] Subtrai k dependendo da quantidade
-https://codeforces.com/contest/1197/problem/D
+- [ ] [CF] [Subtrai k dependendo da quantidade](https://codeforces.com/contest/1197/problem/D)
 
-Combinatória
+**Combinatória**
 -[Atcoder] Degraus
 https://atcoder.jp/contests/abc129/tasks/abc129_c
 
