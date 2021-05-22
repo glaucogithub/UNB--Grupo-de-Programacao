@@ -1,18 +1,18 @@
 **Códigos e Materiais**
 
 Material extra
-- [Blog] [Fila de mínimo](https://codeforces.com/blog/entry/76908)
+* [Blog] [Fila de mínimo](https://codeforces.com/blog/entry/76908)
 
-- [CP-algo] [Fila e pilha de mínimo](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
+* [CP-algo] [Fila e pilha de mínimo](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 
 **Exercícios**
 
 **Exercícios de fixação**
-[Mediana] [Absolute Minima](https://atcoder.jp/contests/abc127/tasks/abc127_f)
+* [Mediana] [Absolute Minima](https://atcoder.jp/contests/abc127/tasks/abc127_f)
 
-[Min queue] [Segments with Small Spread](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/F)
+* [Min queue] [Segments with Small Spread](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/F)
 
-[Set] [Multicolored Cars](https://codeforces.com/problemset/problem/818/D)
+* [Set] [Multicolored Cars](https://codeforces.com/problemset/problem/818/D)
 
 **Exercícios intermediários**
 [Mediana (parecido)] [NCPC2017 problema G](https://codeforces.com/gym/101572/attachments/download/6091/20172018-acmicpc-nordic-collegiate-programming-contest-ncpc-2017-en.pdf)
