@@ -1,5 +1,5 @@
-Introdução
-Este site foi construído usando [GitHub Pages](https://pages.github.com/).
+#Introdução
+
 Videoaulas
 
 Slides
@@ -24,7 +24,7 @@ https://olimpiada.ic.unicamp.br/
 Maratona SBC de Programação
 http://maratona.sbc.org.br/
 
-ICPC
+[ICPC]
 https://icpc.global/
 
 Códigos e Materiais
