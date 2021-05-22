@@ -15,22 +15,22 @@
 * [Set] [Multicolored Cars](https://codeforces.com/problemset/problem/818/D)
 
 **_Exercícios intermediários_**
-[Mediana (parecido)] [NCPC2017 problema G](https://codeforces.com/gym/101572/attachments/download/6091/20172018-acmicpc-nordic-collegiate-programming-contest-ncpc-2017-en.pdf)
+* [Mediana (parecido)] [NCPC2017 problema G](https://codeforces.com/gym/101572/attachments/download/6091/20172018-acmicpc-nordic-collegiate-programming-contest-ncpc-2017-en.pdf)
 
-[GCD queue] [38 parrots](https://codeforces.com/gym/102788/problem/D)
+* [GCD queue] [38 parrots](https://codeforces.com/gym/102788/problem/D)
 
-[Min queue] [Friends and Subsequences](https://codeforces.com/contest/689/problem/D)
+* [Min queue] [Friends and Subsequences](https://codeforces.com/contest/689/problem/D)
 
-[Min queue] [Trous de loup](https://szkopul.edu.pl/problemset/problem/07Q0fFk7fU2TmGr6wpPeDCZj/site/?key=statement)
+* [Min queue] [Trous de loup](https://szkopul.edu.pl/problemset/problem/07Q0fFk7fU2TmGr6wpPeDCZj/site/?key=statement)
 
-[Set] [Nastya is Buying Lunch](https://codeforces.com/contest/1136/problem/D)
+* [Set] [Nastya is Buying Lunch](https://codeforces.com/contest/1136/problem/D)
 
-[Set] [Array Destruction](https://codeforces.com/problemset/problem/1474/C)
+* [Set] [Array Destruction](https://codeforces.com/problemset/problem/1474/C)
 
-[Set] [Roadwork](https://atcoder.jp/contests/abc128/tasks/abc128_e)
+* [Set] [Roadwork](https://atcoder.jp/contests/abc128/tasks/abc128_e)
 
 **_Exercícios difíceis_**
 
-[Min queue] [Running on Fumes](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/D1)
+* [Min queue] [Running on Fumes](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/D1)
 
-[Set] [Physical Education Lessons](https://codeforces.com/contest/915/problem/E)
+*[Set] [Physical Education Lessons](https://codeforces.com/contest/915/problem/E)
