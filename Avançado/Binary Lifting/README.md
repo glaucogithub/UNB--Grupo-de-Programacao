@@ -12,11 +12,11 @@
 
 # Códigos e Materiais
 ## Material extra
-- [CP-algo] - [x] [Exponenciação rápida](https://cp-algorithms.com/algebra/binary-exp.html)
+- [CP-algo] [ ] [Exponenciação rápida](https://cp-algorithms.com/algebra/binary-exp.html)
 
-- [CP-algo] [] [Sparse table](https://cp-algorithms.com/data_structures/sparse-table.html)
+- [CP-algo] [ ] [Sparse table](https://cp-algorithms.com/data_structures/sparse-table.html)
 
-- [CP-algo] [] [Binary Lifting - LCA](https://cp-algorithms.com/graph/lca_binary_lifting.html)
+- [CP-algo] [ ] [Binary Lifting - LCA](https://cp-algorithms.com/graph/lca_binary_lifting.html)
 
 # Exercícios
 ## Parte 1
