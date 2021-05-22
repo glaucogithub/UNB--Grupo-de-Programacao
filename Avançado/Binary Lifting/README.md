@@ -6,7 +6,7 @@
 1. Binary Lifting na árvore
 2. Euler tour/LCA
 
-## Slides
+# Slides
 - _Slides da aula 1_
 - _Slides da aula 2_
 
@@ -19,7 +19,7 @@
 - [ ] [CP-algo] [Binary Lifting - LCA](https://cp-algorithms.com/graph/lca_binary_lifting.html)
 
 # Exercícios
-## Parte 1
+###### Parte 1
 **_Exercícios de fixação_**
 - [ ] [Exponenciação rápida] [Fibonacci](https://codeforces.com/gym/102644/problem/C)
 
@@ -39,7 +39,7 @@
 
 - [ ] [Sparse Table] [Imbalanced Array](https://codeforces.com/contest/817/problem/D)
 
-## Parte 2
+###### Parte 2
 **_Exercícios de fixação_**
 - [ ] [Binary Lifting/Árvore] [Company Queries I](https://cses.fi/problemset/task/1687)
 
