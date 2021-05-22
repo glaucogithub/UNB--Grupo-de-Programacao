@@ -1,22 +1,21 @@
-Segment Tree
+# Segment Tree
 
-Videoaulas
-Aula 1
-Soma e mínimo em intervalo
-Intervalo de soma máxima
+## Videoaulas
+## Aula 1
+1. Soma e mínimo em intervalo
+2. Intervalo de soma máxima
 
-Aula 2
-Lazy Propagation
+## Aula 2
+1. Lazy Propagation
 Aplicações
 
-Slides
-Slides da aula 1
-Slides da aula 2
+## Slides
+_Slides da aula 1_
+_Slides da aula 2_
 
-Códigos e Materiais
-Códigos da aula 1
-CF-EDU SegTree A
-https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/A.cpp
+## Códigos e Materiais
+- Códigos da aula 1
+* [CF-EDU SegTree A](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/A.cpp)
 
 CF-EDU SegTree B
 https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/B.cpp
