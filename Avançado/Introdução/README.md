@@ -7,14 +7,14 @@ Material extra
 
 **Exercícios**
 
-**Exercícios de fixação**
+**_Exercícios de fixação_**
 * [Mediana] [Absolute Minima](https://atcoder.jp/contests/abc127/tasks/abc127_f)
 
 * [Min queue] [Segments with Small Spread](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/F)
 
 * [Set] [Multicolored Cars](https://codeforces.com/problemset/problem/818/D)
 
-**Exercícios intermediários**
+**_Exercícios intermediários_**
 [Mediana (parecido)] [NCPC2017 problema G](https://codeforces.com/gym/101572/attachments/download/6091/20172018-acmicpc-nordic-collegiate-programming-contest-ncpc-2017-en.pdf)
 
 [GCD queue] [38 parrots](https://codeforces.com/gym/102788/problem/D)
@@ -29,7 +29,7 @@ Material extra
 
 [Set] [Roadwork](https://atcoder.jp/contests/abc128/tasks/abc128_e)
 
-**Exercícios difíceis**
+**_Exercícios difíceis_**
 
 [Min queue] [Running on Fumes](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/D1)
 
