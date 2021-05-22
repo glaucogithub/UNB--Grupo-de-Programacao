@@ -1,24 +1,22 @@
 # Aula 1
-Exponenciação rápida
-Sparse table
+1. Exponenciação rápida
+2. Sparse table
 
 # Aula 2
-Binary Lifting na árvore
-Euler tour/LCA
+1. Binary Lifting na árvore
+2. Euler tour/LCA
 
 **Slides**
-**_Slides da aula 1_**
-**_Slides da aula 2_**
+- **_Slides da aula 1_**
+- **_Slides da aula 2_**
 
 # Códigos e Materiais
 ## Material extra
-- [CP-algo] Exponenciação rápida(https://cp-algorithms.com/algebra/binary-exp.html)
+- [CP-algo] [Exponenciação rápida](https://cp-algorithms.com/algebra/binary-exp.html)
 
--[CP-algo] Sparse table
-https://cp-algorithms.com/data_structures/sparse-table.html
+- [CP-algo] [Sparse table](https://cp-algorithms.com/data_structures/sparse-table.html)
 
--[CP-algo] Binary Lifting - LCA
-https://cp-algorithms.com/graph/lca_binary_lifting.html
+- [CP-algo] [Binary Lifting - LCA](https://cp-algorithms.com/graph/lca_binary_lifting.html)
 
 Exercícios
 Parte 1
