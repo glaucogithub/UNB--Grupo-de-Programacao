@@ -1,35 +1,34 @@
-**Introdução**
+# Introdução
 
-Videoaulas
+# Videoaulas
 
-Slides
-Slides da aula 1
+# Slides
+_Slides da aula 1_
 
-Juízes Online e Competições
+# Juízes Online e Competições
 
-Juízes Online
+## Juízes Online
 [Codeforces](https://codeforces.com/)
 
 [AtCoder](https://atcoder.jp/)
 
 [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/)
 
-Competições
+# Competições
 [OBI](https://olimpiada.ic.unicamp.br/)
 
 [Maratona SBC de Programação](http://maratona.sbc.org.br/)
 
 [ICPC](https://icpc.global/)
 
-Códigos e Materiais
+# Códigos e Materiais
 
-Material extra
+# Material extra
 -[Repositório do Prof. Edson Alves](https://github.com/edsomjr/TEP/tree/master/Introducao)
 
 -[Grupo da UnBalloon no Codeforces](https://codeforces.com/group/nituVTsHQX/contests)
 
 -[Informações sobre a II Maratona de Programaçao UnBalloon](http://maratona.cic.unb.br/unb/72-ii-maratona-programacao-unballon)
-
 II Maratona UnBalloon de Programação
 Olá, competidores.
 
