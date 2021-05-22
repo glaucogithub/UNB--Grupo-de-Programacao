@@ -28,9 +28,9 @@
 - [ ] [Sparse Table] [Friends and Subsequences](https://codeforces.com/problemset/problem/689/D)
 
 **_Exercícios intermediários_**
-- [Exponenciação rápida] [ ] [Magic Gems](https://codeforces.com/contest/1117/problem/D)
+- [ ] [Exponenciação rápida] [Magic Gems](https://codeforces.com/contest/1117/problem/D)
 
-- [Sparse Table] [ ] [Fountains](https://codeforces.com/contest/799/problem/C)
+- [ ] [Sparse Table] [Fountains](https://codeforces.com/contest/799/problem/C)
 
 **_Exercícios difíceis_**
 - [ ] [Exponenciação rápida] [Xor-sequences](https://codeforces.com/contest/691/problem/E)
