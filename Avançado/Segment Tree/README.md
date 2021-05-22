@@ -26,87 +26,68 @@ Aplicações
 * [Neps Banco do Faraó](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Farao.cpp)
 
 ## Códigos da aula 2
-[NEPS Lazy](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Lazy.cpp)
+- [NEPS Lazy](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Lazy.cpp)
 
-[AtCoder Contagem](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Contagem.cpp)
+- [AtCoder Contagem](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Contagem.cpp)
 
-[CSES Euler Tour](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Cses.cpp)
+- [CSES Euler Tour](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Cses.cpp)
 
-[ICPC SweepLine](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/SweepLine.cpp)
+- [ICPC SweepLine](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/SweepLine.cpp)
 
 ## Material extra
-* [NEPS] [Segment Tree](https://neps.academy/br/course/10/lesson/266)
+- [NEPS] [Segment Tree](https://neps.academy/br/course/10/lesson/266)
 
-* [CP-algo] [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
+- [CP-algo] [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
 
-* [CF-EDU] [Segment Tree](https://codeforces.com/edu/course/2/lesson/4)
+- [CF-EDU] [Segment Tree](https://codeforces.com/edu/course/2/lesson/4)
 
-* [NEPS] [Lazy Propagation](https://neps.academy/br/course/10/lesson/264)
+- [NEPS] [Lazy Propagation](https://neps.academy/br/course/10/lesson/264)
 
-* [CP-Algo] [Lazy Propagation](https://cp-algorithms.com/data_structures/segment_tree.html#toc-tgt-10)
+- [CP-Algo] [Lazy Propagation](https://cp-algorithms.com/data_structures/segment_tree.html#toc-tgt-10)
 
-- [Geeks for Geeks] MergeSort Tree
-https://www.geeksforgeeks.org/merge-sort-tree-smaller-or-equal-elements-in-given-row-range/
+- [Geeks for Geeks] [MergeSort Tree](https://www.geeksforgeeks.org/merge-sort-tree-smaller-or-equal-elements-in-given-row-range/)
 
--[CF] SegTree Iterativa
-https://codeforces.com/blog/entry/18051
+- [CF] [SegTree Iterativa](https://codeforces.com/blog/entry/18051)
 
-Exercícios
-Parte 1
-Exercícios de fixação
--[CF-EDU] SegTree de soma
-https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/A
+## Exercícios
+###### Parte 1
+**_Exercícios de fixação_**
+- [ ] [CF-EDU] [SegTree de soma](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/A)
 
--[CF-EDU] SegTree de mínimo
-https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/B
+- [ ] [CF-EDU] [SegTree de mínimo](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/B)
 
--[CF-EDU] Segtree de mínimo e quantidade
-https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C
+- [ ] [CF-EDU] [Segtree de mínimo e quantidade](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C)
 
--[Neps] SegTree de soma máxima
-https://neps.academy/br/course/10/lesson/288
+- [ ] [Neps] [SegTree de soma máxima](https://neps.academy/br/course/10/lesson/288)
 
-Exercícios intermediários
--[CF] SegTree de OR e XOR
-https://codeforces.com/contest/339/problem/D
+**_Exercícios intermediários_**
+- [ ] [CF] [SegTree de OR e XOR](https://codeforces.com/contest/339/problem/D)
 
--[CF] SegTree de strings
-https://codeforces.com/problemset/problem/1234/D
+- [ ] [CF] [SegTree de strings](https://codeforces.com/problemset/problem/1234/D)
 
--[CSES] SegTree de máximo
-https://cses.fi/problemset/task/1143
+- [ ] [CSES] [SegTree de máximo](https://cses.fi/problemset/task/1143)
 
-Exercícios difíceis
--[CF] Segtree de soma e máximo
-https://codeforces.com/contest/920/problem/F
+**_Exercícios difíceis_**
+- [ ] [CF] [Segtree de soma e máximo](https://codeforces.com/contest/920/problem/F)
 
--[ICPC - Brazil Subregional] Segtree como estrutura auxiliar
-https://codeforces.com/gym/102861/problem/E
+- [ ] [ICPC - Brazil Subregional] [Segtree como estrutura auxiliar](https://codeforces.com/gym/102861/problem/E)
 
--[CF] Segtree de soma máxima
-https://codeforces.com/contest/1420/problem/C2
+- [ ] [CF] [Segtree de soma máxima](https://codeforces.com/contest/1420/problem/C2)
 
-Parte 2
-Exercícios de fixação
--[NEPS] Lazy Propagation
-https://neps.academy/br/course/10/lesson/289
+###### Parte 2
+**_Exercícios de fixação_**
+- [ ] [NEPS] [Lazy Propagation](https://neps.academy/br/course/10/lesson/289)
 
-Exercícios intermediários
--[Atcoder] Contagem + Lazy Propagation
-https://atcoder.jp/contests/abc179/tasks/abc179_d
+**_Exercícios intermediários_**
+- [ ] [Atcoder] [Contagem + Lazy Propagation](https://atcoder.jp/contests/abc179/tasks/abc179_d)
 
--[CSES] EulerTour + Segtree
-https://cses.fi/problemset/task/1137
+- [ ] [CSES] [EulerTour + Segtree](https://cses.fi/problemset/task/1137)
 
--[CF - Div3 F] Lazy Propagation
-https://codeforces.com/contest/1311/problem/F
+- [ ] [CF - Div3 F] [Lazy Propagation](https://codeforces.com/contest/1311/problem/F)
 
-Exercícios difíceis
--[SPOJ] MergeSort Tree
-https://www.spoj.com/problems/KQUERY/
+**_Exercícios difíceis_**
+- [ ] [SPOJ] [MergeSort Tree](https://www.spoj.com/problems/KQUERY/)
 
--[CF - Educational E] EulerTour + Segtree
-https://codeforces.com/problemset/problem/620/E
+- [ ] [CF - Educational E] [EulerTour + Segtree](https://codeforces.com/problemset/problem/620/E)
 
--[ICPC - Nacional 2019] Geometria + Lazy Propagation
-https://codeforces.com/gym/102346/problem/F
+- [ ] [ICPC - Nacional 2019] [Geometria + Lazy Propagation](https://codeforces.com/gym/102346/problem/F)
