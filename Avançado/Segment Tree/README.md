@@ -26,34 +26,26 @@ Aplicações
 * [Neps Banco do Faraó](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Farao.cpp)
 
 ## Códigos da aula 2
-**NEPS Lazy**(https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Lazy.cpp)
+[NEPS Lazy](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Lazy.cpp)
 
-AtCoder Contagem
-https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Contagem.cpp
+[AtCoder Contagem](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Contagem.cpp)
 
-CSES Euler Tour
-https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Cses.cpp
+[CSES Euler Tour](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Cses.cpp)
 
-ICPC SweepLine
-https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/SweepLine.cpp
+[ICPC SweepLine](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/SweepLine.cpp)
 
-Material extra
--[NEPS] Segment Tree
-https://neps.academy/br/course/10/lesson/266
+## Material extra
+* [NEPS] [Segment Tree](https://neps.academy/br/course/10/lesson/266)
 
--[CP-algo] Segment Tree
-https://cp-algorithms.com/data_structures/segment_tree.html
+* [CP-algo] [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
 
--[CF-EDU] Segment Tree
-https://codeforces.com/edu/course/2/lesson/4
+* [CF-EDU] [Segment Tree](https://codeforces.com/edu/course/2/lesson/4)
 
--[NEPS] Lazy Propagation
-https://neps.academy/br/course/10/lesson/264
+* [NEPS] [Lazy Propagation](https://neps.academy/br/course/10/lesson/264)
 
--[CP-Algo] Lazy Propagation
-https://cp-algorithms.com/data_structures/segment_tree.html#toc-tgt-10
+* [CP-Algo] [Lazy Propagation](https://cp-algorithms.com/data_structures/segment_tree.html#toc-tgt-10)
 
--[Geeks for Geeks] MergeSort Tree
+- [Geeks for Geeks] MergeSort Tree
 https://www.geeksforgeeks.org/merge-sort-tree-smaller-or-equal-elements-in-given-row-range/
 
 -[CF] SegTree Iterativa
