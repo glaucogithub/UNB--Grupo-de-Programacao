@@ -5,7 +5,7 @@
 
 * [CP-algo] [Fila e pilha de mínimo](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 
-**Exercícios**
+# Exercícios
 
 **_Exercícios de fixação_**
 * [Mediana] [Absolute Minima](https://atcoder.jp/contests/abc127/tasks/abc127_f)
