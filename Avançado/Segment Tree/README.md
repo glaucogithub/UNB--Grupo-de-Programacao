@@ -10,28 +10,23 @@
 Aplicações
 
 ## Slides
-_Slides da aula 1_
-_Slides da aula 2_
+- _Slides da aula 1_
+- _Slides da aula 2_
 
 ## Códigos e Materiais
-- Códigos da aula 1
+###### Códigos da aula 1
 * [CF-EDU SegTree A](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/A.cpp)
 
-CF-EDU SegTree B
-https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/B.cpp
+* [CF-EDU SegTree B](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/B.cpp)
 
-CF-EDU SegTree C
-https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/C.cpp
+* [CF-EDU SegTree C](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/C.cpp)
 
-Distinct Characters Queries - Div3 D
-https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/590-D.cpp
+* [Distinct Characters Queries - Div3 D](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/590-D.cpp)
 
-Neps Banco do Faraó
-https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Farao.cpp
+* [Neps Banco do Faraó](https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Farao.cpp)
 
-Códigos da aula 2
-NEPS Lazy
-https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Lazy.cpp
+## Códigos da aula 2
+**NEPS Lazy**(https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Lazy.cpp)
 
 AtCoder Contagem
 https://unb-cic.github.io/Maratona-Extensao/avancado/segment-tree/code/Contagem.cpp
