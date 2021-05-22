@@ -9,20 +9,21 @@ Se encontram aqui: videoaulas, exercícios recomendados e materiais extras de ou
 
 Caso tenha interesse em assistir as videoaulas então siga, preferencialmente, a ordem abaixo. Em geral os exercícios são separados em fixação, intermediário e avançado. Recomendamos fazer os exercícios de fixação antes de avançar para o próximo tópico.
 
-Conteúdo
-Introdução
-Estruturas simples e motivação
-Binary lifting
-Exponenciação rápida
-Sparse table
-LCA
-Segment Tree
-Soma e mínimo em intervalo
-Intervalo de soma máxima
-Lazy propagation
-Programação Dinâmica (DP)
-DPs clássicas
-DP na árvore
-Otimizações de memória e tempo
-Geometria
-Teoria dos números
+Conteúdo:
+
+1. Introdução
+2. Estruturas simples e motivação
+3. Binary lifting
+4. Exponenciação rápida
+5. Sparse table
+6. LCA
+7. Segment Tree
+8. Soma e mínimo em intervalo
+9. Intervalo de soma máxima
+10. Lazy propagation
+11. Programação Dinâmica (DP)
+12. DPs clássicas
+13. DP na árvore
+14. Otimizações de memória e tempo
+15. Geometria
+16. Teoria dos números
