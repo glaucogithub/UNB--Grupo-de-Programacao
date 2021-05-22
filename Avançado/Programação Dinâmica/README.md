@@ -33,50 +33,35 @@ _Slides da aula 1_
 - [ ] [CF] [Subtrai k dependendo da quantidade](https://codeforces.com/contest/1197/problem/D)
 
 **Combinatória**
--[Atcoder] Degraus
-https://atcoder.jp/contests/abc129/tasks/abc129_c
+- [ ] [Atcoder] [Degraus](https://atcoder.jp/contests/abc129/tasks/abc129_c0
 
--[CF] Organizar soldados e cavaleiros
-https://codeforces.com/problemset/problem/118/D
+- [ ] [CF] [Organizar soldados e cavaleiros](https://codeforces.com/problemset/problem/118/D)
 
--[OBI] Muro
-https://olimpiada.ic.unicamp.br/pratique/pu/2018/f3/muro/
+- [ ] [OBI] [Muro](https://olimpiada.ic.unicamp.br/pratique/pu/2018/f3/muro/)
 
--[CF] Bicolorings (parece com Muro)
-https://codeforces.com/problemset/problem/1051/D
+- [ ] [CF] [Bicolorings (parece com Muro)](https://codeforces.com/problemset/problem/1051/D)
 
-Bitmask
--[Maratona UnB 2020] Caixeiro Viajante
-https://codeforces.com/group/btcK4I5D5f/contest/308631/problem/A
+**Bitmask**
+- [ ] [Maratona UnB 2020] [Caixeiro Viajante](https://codeforces.com/group/btcK4I5D5f/contest/308631/problem/A)
 
--[CF] Bitmask e probabilidade
-https://codeforces.com/contest/678/problem/E
+- [ ] [CF] [Bitmask e probabilidade](https://codeforces.com/contest/678/problem/E)
 
--[CF] Nim game
-https://codeforces.com/contest/768/problem/E
+- [ ] [CF] [Nim game](https://codeforces.com/contest/768/problem/E)
 
--[CF] Problema difícil
-https://codeforces.com/contest/743/problem/e
+- [ ] [CF] [Problema difícil](https://codeforces.com/contest/743/problem/e)
 
-Dígitos
--[CF] Números com até 3 dígitos não nulos
-https://codeforces.com/contest/1036/problem/C
+**Dígitos**
+- [ ] [CF] [Números com até 3 dígitos não nulos](https://codeforces.com/contest/1036/problem/C)
 
--[CF] Soma dos números com k dígitos diferentes
-https://codeforces.com/contest/1073/problem/E
+- [ ] [CF] [Soma dos números com k dígitos diferentes](https://codeforces.com/contest/1073/problem/E)
 
-Outros
--[CF] Topzera
-https://codeforces.com/contest/1513/problem/C
+**Outros**
+- [ ] [CF] [Topzera](https://codeforces.com/contest/1513/problem/C)
 
--[CF] DP quadrática
-https://codeforces.com/contest/1114/problem/D
+- [ ] [CF] [DP quadrática](https://codeforces.com/contest/1114/problem/D)
 
--[CF] DP de matriz
-https://codeforces.com/contest/1107/problem/D
+- [ ] [CF] [DP de matriz](https://codeforces.com/contest/1107/problem/D)
 
--[NEPS] Trabalho do Papa
-https://neps.academy/br/course/7/lesson/177
+- [ ] [NEPS] [Trabalho do Papa](https://neps.academy/br/course/7/lesson/177)
 
--[CF] Generate a String
-https://codeforces.com/contest/710/problem/E
+- [ ] [CF] [Generate a String](https://codeforces.com/contest/710/problem/E)
