@@ -25,7 +25,7 @@ Maratona SBC de Programação
 http://maratona.sbc.org.br/
 
 [ICPC]
-https://icpc.global/
+(https://icpc.global/)
 
 Códigos e Materiais
 
