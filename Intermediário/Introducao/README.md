@@ -1,45 +1,52 @@
-# Introdução
+Introdução
+====================================
 
-# Videoaulas
+## Videoaulas
 
-# Slides
-_Slides da aula 1_
 
-# Juízes Online e Competições
+## Slides
 
-## Juízes Online
-[Codeforces](https://codeforces.com/)
+<details>
+    <summary>Slides da aula 1</summary>
 
-[AtCoder](https://atcoder.jp/)
+<iframe src="https://docs.google.com/presentation/d/1myQ7EMeeFY9iK9m3V83WA7dyb485dNR2p2ck_hBAH7w/embed?start=false&loop=false&delayms=60000" frameborder="0" width="672" height="378" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/)
+</details>
 
-# Competições
-[OBI](https://olimpiada.ic.unicamp.br/)
+## Juízes Online e Competições
 
-[Maratona SBC de Programação](http://maratona.sbc.org.br/)
+<details>
+    <summary>Juízes Online</summary>
 
-[ICPC](https://icpc.global/)
+<div markdown=1>
 
-# Códigos e Materiais
+- [Codeforces](https://codeforces.com/)
+- [AtCoder](https://atcoder.jp/)
+- [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login)
+</div>
+</details>
 
-# Material extra
+<details>
+    <summary>Competições</summary>
+
+<div markdown=1>
+
+- [OBI](https://olimpiada.ic.unicamp.br/)
+- [Maratona SBC de Programação](http://maratona.sbc.org.br/)
+- [ICPC](https://icpc.global/)
+</div>
+</details>
+
+## Códigos e Materiais
+
+<details>
+    <summary>Material extra</summary>
+
+<div markdown=1>
+
 - [Repositório do Prof. Edson Alves](https://github.com/edsomjr/TEP/tree/master/Introducao)
-
 - [Grupo da UnBalloon no Codeforces](https://codeforces.com/group/nituVTsHQX/contests)
-
 - [Informações sobre a II Maratona de Programaçao UnBalloon](http://maratona.cic.unb.br/unb/72-ii-maratona-programacao-unballon)
-
-> Olá, competidores.
-
-É com satisfação que anunciamos a II Maratona UnBalloon de Programação! 
-A competição será realizada no dia 29/05, às 14h, com duração de 5 horas e será aberta a todos. 
-É uma maratona para todos os níveis, alunos iniciantes e experientes são convidados a participar, qualquer competidor que tenha feito apenas as matérias iniciais de programação de seu curso conseguirá resolver problemas e se divertir. 
-Lembrando que esta maratona será realizada em equipes de 1 até 3 pessoas! 
-Ao final da competição será feita uma live no Youtube para revelar os vencedores.
-Para participar basta preencher o formulário com informações do seu time (https://forms.gle/dzLwwjtXhqtK6z4X9).
-Para criar seu time na plataforma do CodeForces assista o vídeo de explicação (https://youtu.be/8y48CHeylIE).
-Caso queira saber mais sobre a última Maratona UnBalloon, acesse o link (http://maratona.cic.unb.br/unb/67-i-maratona-programacao-unballon).
-Quaisquer dúvidas, pergunte no grupo do UnBallon no Telegram (https://t.me/unballoon).
-Esperamos que todos se divirtam participando. Boa sorte e boa competição!
-
+    
+</div>
+</details>
