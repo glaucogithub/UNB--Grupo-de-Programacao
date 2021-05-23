@@ -1,36 +1,60 @@
-# Códigos e Materiais
+Introdução
+====================================
 
-## Material extra
-* [Blog] [Fila de mínimo](https://codeforces.com/blog/entry/76908)
+## Videoaulas
 
-* [CP-algo] [Fila e pilha de mínimo](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
+<details>
+    <summary>Aula 1</summary>
 
-# Exercícios
+<iframe width="672" height="378" src="https://www.youtube.com/embed/lFghsipaZhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
 
-**_Exercícios de fixação_**
-- [ ] [Mediana] [Absolute Minima](https://atcoder.jp/contests/abc127/tasks/abc127_f)
+- Set
+- Min/max queue
+- Estrutura de mediana
 
-- [ ] [Min queue] [Segments with Small Spread](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/F)
+## Slides
 
-- [ ] [Set] [Multicolored Cars](https://codeforces.com/problemset/problem/818/D)
+<details>
+    <summary>Slides da aula 1</summary>
 
-**_Exercícios intermediários_**
-- [ ] [Mediana (parecido)] [NCPC2017 problema G](https://codeforces.com/gym/101572/attachments/download/6091/20172018-acmicpc-nordic-collegiate-programming-contest-ncpc-2017-en.pdf)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMYBlUSqpxXUTBrGIrzWu94scXhwWwP3rz9r-qDEgTjtLNBo3WiAv7CsFVRn7lhv7JTSEF5yW--reX/embed?start=false&loop=false&delayms=60000" frameborder="0" width="672" height="378" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-- [ ] [GCD queue] [38 parrots](https://codeforces.com/gym/102788/problem/D)
+</details>
 
-- [ ] [Min queue] [Friends and Subsequences](https://codeforces.com/contest/689/problem/D)
+## Códigos e Materiais
 
-- [ ] [Min queue] [Trous de loup](https://szkopul.edu.pl/problemset/problem/07Q0fFk7fU2TmGr6wpPeDCZj/site/?key=statement)
+<details>
+    <summary>Material extra</summary>
 
-- [ ] [Set] [Nastya is Buying Lunch](https://codeforces.com/contest/1136/problem/D)
+<div markdown=1>
 
-- [ ] [Set] [Array Destruction](https://codeforces.com/problemset/problem/1474/C)
+- [[Blog] Fila de mínimo](https://codeforces.com/blog/entry/76908)
+- [[CP-algo] Fila e pilha de mínimo](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
+</div>
+</details>
 
-- [ ] [Set] [Roadwork](https://atcoder.jp/contests/abc128/tasks/abc128_e)
+## Exercícios
 
-**_Exercícios difíceis_**
+<details>
+    <summary>Parte 1</summary>
 
-- [ ] [Min queue] [Running on Fumes](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/D1)
+<div markdown=1>
 
-- [ ] [Set] [Physical Education Lessons](https://codeforces.com/contest/915/problem/E)
+- Exercícios de fixação
+    - [[Mediana] Absolute Minima](https://atcoder.jp/contests/abc127/tasks/abc127_f)
+    - [[Min queue] Segments with Small Spread](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/F)
+    - [[Set] Multicolored Cars](https://codeforces.com/problemset/problem/818/D)
+- Exercícios intermediários
+    - [[Mediana (parecido)] NCPC2017 problema G](https://codeforces.com/gym/101572/attachments)
+    - [[GCD queue] 38 parrots](https://codeforces.com/gym/102788/problem/D)
+    - [[Min queue] Friends and Subsequences](https://codeforces.com/contest/689/problem/D)
+    - [[Min queue] Trous de loup](https://szkopul.edu.pl/problemset/problem/07Q0fFk7fU2TmGr6wpPeDCZj/site/?key=statement)
+    - [[Set] Nastya is Buying Lunch](https://codeforces.com/contest/1136/problem/D)
+    - [[Set] Array Destruction](https://codeforces.com/problemset/problem/1474/C)
+    - [[Set] Roadwork](https://atcoder.jp/contests/abc128/tasks/abc128_e)
+- Exercícios difíceis
+    - [[Min queue] Running on Fumes](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/D1)
+    - [[Set] Physical Education Lessons](https://codeforces.com/contest/915/problem/E)
+</div>
+</details>
