@@ -12,7 +12,7 @@ Se encontram aqui: videoaulas, exercícios recomendados e materiais extras de ou
 Caso tenha interesse em assistir as videoaulas então siga, preferencialmente, a ordem abaixo. Em geral os exercícios são separados em fixação, intermediário e avançado. Recomendamos fazer os exercícios de fixação antes de avançar para o próximo tópico.
 
 ## Conteúdo
-1. [Introdução](introducao/README.md)
+1. [Introdução](Introducao/README.md)
    - Apresentação
    - Palestra Motivacional
    - Juízes Automáticos
