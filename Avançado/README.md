@@ -9,17 +9,17 @@ Caso tenha interesse em assistir as videoaulas então siga, preferencialmente, a
 
 ## Conteúdo
 
-1. [Introdução](introducao/README.md)
+1. [Introdução](Introdu%C3%A7%C3%A3o/README.md)
     - Estruturas simples e motivação
-1. [Binary lifting](binary-lifting/README.md)
+1. [Binary lifting](Binary%20Lifting/README.md)
     - Exponenciação rápida
     - Sparse table
     - LCA
-1. [Segment Tree](segment-tree/README.md)
+1. [Segment Tree](Segment%20Tree/README.md)
     - Soma e mínimo em intervalo
     - Intervalo de soma máxima
     - Lazy propagation
-1. [Programação Dinâmica (DP)](programacao-dinamica/README.md)
+1. [Programação Dinâmica (DP)](Programa%C3%A7%C3%A3o%20Din%C3%A2mica/README.md)
     - DPs clássicas
     - DP na árvore
     - Otimizações de memória e tempo
