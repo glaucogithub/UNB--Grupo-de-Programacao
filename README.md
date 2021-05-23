@@ -5,9 +5,9 @@ Esse é um projeto de extensão desenvolvido no Distrito Federal a partir do esf
 
 As atividades do projeto são divididas em 3 grupos: iniciante, intermediário e avançado, cujas páginas são:
 
-[Iniciante](https://github.com/glaucogithub/UNB--Grupo-de-Programacao/blob/main/Iniciante/README.md)
-Intermediário
-Avançado
+- [Iniciante](https://github.com/glaucogithub/UNB--Grupo-de-Programacao/blob/main/Iniciante/README.md)
+- [Intermediário](https://github.com/glaucogithub/UNB--Grupo-de-Programacao/blob/main/Intermedi%C3%A1rio/README.md)
+- [Avançado](https://github.com/glaucogithub/UNB--Grupo-de-Programacao/blob/main/Avan%C3%A7ado/README.md)
 
 Grupo do Telegram
 O grupo do Telegram UnBalloon reúne estudantes tanto do Distrito Federal quanto do resto do Brasil. Seu propósito é simples: ser um espaço de interações e troca de conhecimentos de programação competitiva. Para fins de organização existem dois grupos, o [grupo de avisos](https://t.me/avisosunballoon) e o [grupo de discussões](https://t.me/unballoon).
