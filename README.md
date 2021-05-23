@@ -5,7 +5,7 @@ Esse é um projeto de extensão desenvolvido no Distrito Federal a partir do esf
 
 As atividades do projeto são divididas em 3 grupos: iniciante, intermediário e avançado, cujas páginas são:
 
-Iniciante
+[Iniciante](https://github.com/glaucogithub/UNB--Grupo-de-Programacao/blob/main/Iniciante/README.md)
 Intermediário
 Avançado
 
