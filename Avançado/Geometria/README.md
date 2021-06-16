@@ -42,10 +42,10 @@ Geometria
 
 <div markdown=1>
 
-- [CSES Point Location Test](code/pointCross.cpp)
-- [CF Crazy Town](code/crazyTown.cpp)
-- [CSES Polygon Area](code/polygonArea.cpp)
-- [GCPC Hobbits](code/hobbits.cpp)
+- [CSES Point Location Test](Codigos/pointCross.cpp)
+- [CF Crazy Town](Codigos/crazyTown.cpp)
+- [CSES Polygon Area](Codigos/polygonArea.cpp)
+- [GCPC Hobbits](Codigos/hobbits.cpp)
 
 </div>
 </details>
