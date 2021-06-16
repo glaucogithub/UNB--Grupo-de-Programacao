@@ -23,7 +23,7 @@ Caso tenha interesse em assistir as videoaulas então siga, preferencialmente, a
     - DPs clássicas
     - DP na árvore
     - Otimizações de memória e tempo
-1. [Geometria](geometria/README.md)
+1. [Geometria](Geometria/README.md)
     - Estruturas
     - Polígonos
     - Casco Convexo
