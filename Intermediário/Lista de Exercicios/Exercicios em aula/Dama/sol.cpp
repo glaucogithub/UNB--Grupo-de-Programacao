@@ -22,7 +22,7 @@ int main() {
 	while (cin >> x1 >> y1 >> x2 >> y2 && (x1 + y1 + x2 + y2)) {
 		if (x1 == x2 && y1 == y2) { // esta no mesmo lugar
 			cout << 0 << '\n';
-		} else if ((x1 + y1) == (x2 + y2) || (x1 - y1) == (x2 - y2) || (x1 == x2 || y1 == y2) || (x1 == y1 && x2 == y2)) { // diagonais
+		} else if ((x1 + y1) == (x2 + y2) || (x1 - y1) == (x2 - y2) || (x1 == x2 || y1 == y2) || (x1 == y1 && x2 == y2)) { // diagonais, linhas e colunas
 			cout << 1 << '\n';
 		} else {
 			cout << 2 << '\n';
