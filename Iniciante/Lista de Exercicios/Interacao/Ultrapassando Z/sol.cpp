@@ -13,6 +13,7 @@ using namespace std;
 mt19937_64 rng(chrono::steady_clock::now().time_since_epoch().count());
 
 int x, z, cnt, ans;
+bool not_trespassing = true;
 
 template<typename A, typename B> ostream& operator<<(ostream &os, const pair<A, B> &p) { return os << '(' << p.first << ", " << p.second << ')'; }
 template < typename T_container, typename T = typename enable_if < !is_same<T_container, string>::value, typename T_container::value_type >::type > ostream & operator<<(ostream &os, const T_container &v) { os << '{'; string sep; for (const T &x : v) os << sep << x, sep = ", "; return os << '}'; }
@@ -33,7 +34,7 @@ int main() {
 #endif
 	int x;
 	cin >> x;
-	while (true) {
+	while (not_trespassing) {
 		cin >> z;
 		if (z <= x) {       //so processa numeros maiores que z
 			continue;
@@ -41,9 +42,7 @@ int main() {
 		while (z > ans) { //enquanto o numero for maior que minha soma
 			ans += x;    //incremento ela, passando pro proximo numero e aumento a quantidade de numeros na minha resposta
 			x++, cnt++;
-		}
-		if (ans > z) { //condicao de saida quando a soma é maior que z
-			break;
+			not_trespassing = false;//quando sair desse laco é porque ultrapassou z
 		}
 	}
 	cout << cnt << '\n';
