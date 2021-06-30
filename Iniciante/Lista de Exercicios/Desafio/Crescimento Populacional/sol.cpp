@@ -48,7 +48,7 @@ int main() {
 		if (years > 100) {
 			cout << "Mais de 1 seculo." << '\n';
 		} else {
-			cout << cnt << " anos." << '\n';
+			cout << years << " anos." << '\n';
 		}
 	}
 }
