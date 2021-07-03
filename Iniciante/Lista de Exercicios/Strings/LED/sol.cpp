@@ -38,7 +38,7 @@ int main() {
 	while (n--) {
 		cin >> s;
 		sum = 0;
-		for (int i = 0; i < s.length(); i++) {
+		for (size_t i = 0; i < s.length(); i++) {
 			sum += leds[(s[i] - '0')];
 			// dbg(sum, s[i] - '0', leds[(s[i] - '0')]);
 		}
