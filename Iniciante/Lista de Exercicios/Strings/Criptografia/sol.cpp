@@ -23,10 +23,10 @@ int main() {
 	cin.ignore();
 	while (tt--) {
 		string str;
-		int num;
-		cin >> str >> num;
+		int d;
+		cin >> str >> d;
 		for (int i = str.length(); i >= 0; --i) {
-			str[i] = (str[i] - 'A' - num + 26) % 26 + 'A';
+			str[i] = (str[i] - 'A' - d + 26) % 26 + 'A';
 		}
 		cout << str << endl;
 	}
